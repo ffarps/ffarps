@@ -1,5 +1,5 @@
 # Olá!, I'm Francisco André 💿
-- Profile  under construction............estimated time: Unknown.... 
+### Profile  under construction, estimated time: Unknown 
 <div>
  <a href="https://github.com/ffarps">
 <img align="left" witdh="47%" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&theme=vue" />
