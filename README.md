@@ -6,7 +6,7 @@
 <img align="left" witdh="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
  ## Currently using:
 <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
