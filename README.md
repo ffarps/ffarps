@@ -40,6 +40,6 @@
 
 
 <!--![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)-->
-
- ##### avatar: https://avatarmaker.com/
- ##### icons: https://https://github.com/devicons/devicon/tree/master/icons/
+ 
+  ##### Avatar: https://avatarmaker.com/
+  ##### Icons:  https://github.com/devicons/devicon/tree/master/icons/
