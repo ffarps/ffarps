@@ -45,3 +45,4 @@
  
   ##### Avatar: https://avatarmaker.com/
   ##### Icons:  https://github.com/devicons/devicon/tree/master/icons/
+  ##### Readme stats: https://github.com/anuraghazra/github-readme-stats
