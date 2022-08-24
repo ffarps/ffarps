@@ -1,5 +1,5 @@
 # Olá!, I'm Francisco André 💿
-### Informatics Engineer in Instituto Politécnico de Bragança 
+### Informatics Engineer Student in Instituto Politécnico de Bragança 
 
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
