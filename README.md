@@ -17,7 +17,7 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-### Code and Software I used:
+### Code and Software I use or used:
 #### Code:<img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" href="https://en.wikipedia.org/wiki/C_(programming_language)"/><img align="center" alt="c++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="center" alt="c#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img align="center" alt="pyhton" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="center" alt="javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img align="center" alt="bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img align="center" alt="java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 
 #### IDEs: <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img align="center" alt="Rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /><img align="center" alt="VIM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
