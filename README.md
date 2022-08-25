@@ -11,7 +11,7 @@
 
 <div>
  <a href="https://github.com/ffarps">
-<img align="left" witdh="47%" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&theme=rose_pine" />
+<img align="left" witdh="47%" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&theme=vue" />
 <img align="left" witdh="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
 
