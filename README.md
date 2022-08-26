@@ -25,7 +25,7 @@
 #### Software:<img align="center" alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" /><img align="center" alt="androidstudio" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" /><img align="center" alt="arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img align="center" alt="blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /><img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img align="center" alt="MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img align="center" alt="mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img align="center" alt="nginx" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><img align="center" alt="gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />  
 
 #### OS:<img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" /> 
-###### //mainly linux
+###### //mainly linux distros  such as Pop!_OS or Arch Linux
 
 
 
