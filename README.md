@@ -37,6 +37,18 @@
 ###### //mainly Pop!_OS or Arch Linux
 
 
+ <div>
+    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ffarps&column=8&theme=onedark" />
+</div>
+<br/>
+
+
+
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)-->
 <!--![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)-->
 <!--  ##### Avatar: https://avatarmaker.com/-->
