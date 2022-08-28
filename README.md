@@ -1,9 +1,16 @@
 # Olá!, I'm Francisco André 💿
 ### Informatics Engineer Student in Instituto Politécnico de Bragança 
+<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/ffarps" target="_blank"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
+  <a href="https://www.artstation.com/farps" target="_blank"><img src="https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
+</div>
 
+<!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
-[![ArtStation: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/farps)
+[![ArtStation: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/farps)-->
 
 <!--[![GitHub ffarps](https://img.shields.io/github/followers/ffarps?label=follow&style=social)](https://github.com/ffarps)-->
 
@@ -61,6 +68,6 @@ const ffarps = {
 }
 ```-->
 
-###### Social icons: https://shields.io/
+###### Social badges: https://github.com/Envoy-VC/awesome-badges#contents
 ###### Icons:  https://github.com/devicons/devicon/tree/master/icons/
 ###### Readme stats: https://github.com/anuraghazra/github-readme-stats and https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md
