@@ -75,4 +75,4 @@ const ffarps = {
 
 ###### Social badges: https://github.com/Envoy-VC/awesome-badges#contents
 ###### Icons:  https://github.com/devicons/devicon/tree/master/icons/
-###### Readme stats: https://github.com/anuraghazra/github-readme-stats and https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md
+###### Readme stats ans snake: https://github.com/anuraghazra/github-readme-stats and https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md
