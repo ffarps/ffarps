@@ -43,8 +43,13 @@
 #### OS:<img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" /> 
 ###### //mainly Pop!_OS or Arch Linux
 
+<div align="center">
+  
+  ![Snake animation]()
+  
+</div>
 
- <div>
+<div>
     <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div> 
 </div>
