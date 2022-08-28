@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://gitlab.com/ffarps" target="_blank"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/ffarps" target="_blank"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>
   <a href="https://www.artstation.com/farps" target="_blank"><img src="https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
 </div>
 
