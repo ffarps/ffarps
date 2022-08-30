@@ -1,5 +1,5 @@
 # Olá!, I'm Francisco André 💿
-### Informatics Engineer Student in Instituto Politécnico de Bragança 
+### Informatics Engineer Student at Instituto Politécnico de Bragança 
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
