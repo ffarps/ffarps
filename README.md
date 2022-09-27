@@ -48,20 +48,25 @@
 
 -->
 
-<div>
-    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
-</div>
-
 <div align="center">
   
   ![Snake animation](https://github.com/ffarps/ffarps/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<div>
+    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+
+   <!--
    
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ffarps&column=8&theme=onedark" />
 </div>
+
+-->
+
 <br/>
 
 
