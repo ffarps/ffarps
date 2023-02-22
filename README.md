@@ -1,4 +1,4 @@
-# Olá!, I'm Francisco André 💿
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!, I'm Francisco André 💿)](https://git.io/typing-svg)
 ### Informatics Engineer Student at Instituto Politécnico de Bragança 
 <br/>
 <div align="center">
@@ -85,3 +85,4 @@ const ffarps = {
 ###### Social badges: https://github.com/Envoy-VC/awesome-badges#contents
 ###### Icons:  https://github.com/devicons/devicon/tree/master/icons/
 ###### Readme stats and snake: https://github.com/anuraghazra/github-readme-stats and https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md
+###### Readme typing SVG: https://github.com/DenverCoder1/readme-typing-svg
