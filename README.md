@@ -24,17 +24,18 @@
 </div>
 -->
 
+
 <div align="center">
+  <!--
     <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
-    <!--para controlar o tamanho: parametro height-->
     <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="125"/></a>
+  -->
    <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=ffarps&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>-->
   </div>
   
 <!--
-
 ### Code and Software I use or used:
 #### Code:<img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" href="https://en.wikipedia.org/wiki/C_(programming_language)"/><img align="center" alt="c++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="center" alt="c#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img align="center" alt="pyhton" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="center" alt="javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img align="center" alt="bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img align="center" alt="java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 
@@ -83,8 +84,7 @@ const ffarps = {
   architecture: [""]
 }
 ```-->
-
-###### Social badges: https://github.com/Envoy-VC/awesome-badges#contents
-<!--###### Icons:  https://github.com/devicons/devicon/tree/master/icons/-->
-###### Readme stats and snake: https://github.com/anuraghazra/github-readme-stats and https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md
-###### Readme typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+Thanks to these repos: [![Github: Envoy-VC](https://img.shields.io/github/stars/:Envoy-VC/:awesome-badges)](https://github.com/Envoy-VC/awesome-badges#contents)
+[![Github: anuraghazra](https://img.shields.io/github/stars/:anuraghazra/:github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Github: AkshatRastogi-1nC0re](https://img.shields.io/github/stars/:AkshatRastogi-1nC0re/:AkshatRastogi-1nC0re)](https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md)
+[![Github: DenverCoder1](https://img.shields.io/github/stars/:DenverCoder1/:readme-typing-svg)](https://github.com/DenverCoder1/readme-typing-svg)
