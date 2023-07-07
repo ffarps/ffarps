@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?loop=false&lines=Olá!+I'm+Francisco+André+💿)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=75&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Informatics+Engineering+Student+at+Instituto+Politécnico+de+Bragança)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?height=75&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering+at+Instituto+Politécnico+de+Bragança)](https://git.io/typing-svg)
 
 <br/>
 <div align= "center">
