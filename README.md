@@ -25,7 +25,7 @@
 -->
 
   <div align="center">
-    <small>These Stats represent only the languages used in the repos of this account</small> 
+  <p style="color: #1FF773">These Stats represent only the languages used in the repos of this account</p> 
   </div>
   
 <div align="center">
