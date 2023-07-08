@@ -90,3 +90,5 @@ Thanks to these repos: [![Github: Envoy-VC](https://img.shields.io/github/stars/
 [![Github: anuraghazra](https://img.shields.io/github/stars/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Github: AkshatRastogi-1nC0re](https://img.shields.io/github/stars/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re)](https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md)
 [![Github: DenverCoder1](https://img.shields.io/github/stars/DenverCoder1/readme-typing-svg)](https://github.com/DenverCoder1/readme-typing-svg)
+
+avatar made with Midjourney AI
