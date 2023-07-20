@@ -86,9 +86,15 @@ const ffarps = {
   architecture: [""]
 }
 ```-->
-Thanks to these repos: ![Github: Envoy-VC](https://github.com/Envoy-VC/awesome-badges#contents)
-![Github: anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-![Github: AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/README.md)
-![Github: DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg)
+<br/>
+<div align= "center">
+  Thanks to these repos: 
+  
+  <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank"><img src="https://img.shields.io/badge/Awesome Badges-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://img.shields.io/badge/Readme Stats-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Platane/snk" target="_blank"><img src="https://img.shields.io/badge/Snake-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://img.shields.io/badge/Readme Typing-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 avatar made with Midjourney AI
+</div>
+
