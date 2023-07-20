@@ -1,6 +1,10 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?loop=false&lines=Olá!+I'm+Francisco+André+💿)](https://git.io/typing-svg)-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=75&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering+at+Instituto+Politécnico+de+Bragança)](https://git.io/typing-svg)
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/ffarps/ffarps/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <br/>
 <div align= "center">
@@ -52,12 +56,6 @@
 ###### //mainly Pop!_OS or Arch Linux
 
 -->
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ffarps/ffarps/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 <!--
 <div>
     <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
