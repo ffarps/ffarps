@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=75&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering+at+Instituto+Politécnico+de+Bragança)](https://git.io/typing-svg)
 
 <div align="center">
+  snake animation not working rn
   
   ![Snake animation](https://github.com/ffarps/ffarps/blob/output/github-contribution-grid-snake.svg)
 </div>
