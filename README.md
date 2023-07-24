@@ -1,12 +1,13 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?loop=false&lines=Olá!+I'm+Francisco+André+💿)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=75&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering+at+Instituto+Politécnico+de+Bragança)](https://git.io/typing-svg)
 
+<!--
 <div align="center">
   snake animation not working rn
   
   ![Snake animation](https://github.com/ffarps/ffarps/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+-->
 <br/>
 <div align= "center">
   <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
