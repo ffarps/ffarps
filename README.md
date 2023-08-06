@@ -30,7 +30,7 @@
   
 <div align="center">
   <p style="color: #1FF773">These Stats represent only the languages used in the repos of this account</p> 
-   <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
+  <!-- <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>-->
     <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&&hide=Shaderlab,HLSL,GLSL" height="125"/></a>
   <div align="center">
   
