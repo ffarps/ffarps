@@ -11,6 +11,7 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
+
 <!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
@@ -28,53 +29,26 @@
   </div>
     <i><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-
 </details>
   
-
-<!--### Code and Software I use or used:
+<!--<details>
+  <summary>Tools</summary>
+  
 #### Code:<img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" href="https://en.wikipedia.org/wiki/C_(programming_language)"/><img align="center" alt="c++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="center" alt="c#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img align="center" alt="pyhton" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="center" alt="javascript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img align="center" alt="bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img align="center" alt="java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 
 
-#### IDEs: <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img align="center" alt="Rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /><img align="center" alt="VIM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
+#### IDEs and text editors: <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  <img align="center" alt="Rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /><img align="center" alt="VIM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"/>
 
-#### Software:<img align="center" alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" /><img align="center" alt="androidstudio" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" /><img align="center" alt="arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img align="center" alt="blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /><img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img align="center" alt="MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img align="center" alt="mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img align="center" alt="nginx" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><img align="center" alt="gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />  
+#### Development Software:<img align="center" alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" /><img align="center" alt="androidstudio" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" /><img align="center" alt="arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /><img align="center" alt="blender" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /><img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img align="center" alt="MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /><img align="center" alt="mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img align="center" alt="nginx" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><img align="center" alt="gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" />  
 
 #### Frameworks and libraries:<img align="center" alt="Anaconda" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /><img align="center" alt="firebase" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/><img align="center" alt="jupyter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img align="center" alt="nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img align="center" alt="latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 
-#### OS:<img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" /> 
-###### //mainly Pop!_OS or Arch Linux
-
-
-<!--
-<div>
-    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ffarps&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
-</div>
-
-   
-   
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ffarps&column=8&theme=onedark" />
-</div>
-
--->
-
-<br/>
-
+#### OS:<img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"/> 
+  </details>-->
 
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)-->
 <!--![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)-->
 <!--  ##### Avatar: https://avatarmaker.com/-->
-
-<!--```javascript
-const ffarps = {
-  code: [""],
-  tools: [""],
-  architecture: [""]
-}
-```-->
-
 <details>
   <summary>Thanks to:</summary>
   <br/>
