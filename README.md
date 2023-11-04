@@ -84,8 +84,7 @@ const ffarps = {
   <a href="https://github.com/Platane/snk" target="_blank"><img src="https://img.shields.io/badge/Snake-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://img.shields.io/badge/Readme Typing-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
 avatar made with Midjourney AI  
-<details/>
+</details>
 
 
