@@ -1,6 +1,5 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?loop=false&lines=Olá!+I'm+Francisco+André+💿)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=125&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering;Debugging+one+line+at+a+time;Until+I+find+the+damn+error)](https://git.io/typing-svg)
-
   <div align= "center">
   <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/ffarps" target="_blank"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>
@@ -18,14 +17,19 @@
 [![ArtStation: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/farps)-->
 <!--[![GitHub ffarps](https://img.shields.io/github/followers/ffarps?label=follow&style=social)](https://github.com/ffarps)-->
 
+
+<details>
+  <summary>Code Stats</summary>
 <div align="center">
   <br/>
-  <!--<a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=false&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>-->
+  <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=false&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
   <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&&hide=Shaderlab,HLSL,GLSL" height="200"/></a>
   <div align="center">
   </div>
     <i><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
+
+</details>
   
 
 <!--### Code and Software I use or used:
@@ -70,9 +74,10 @@ const ffarps = {
   architecture: [""]
 }
 ```-->
-<br/>
-Thanks to:
 
+<details>
+  <summary>Thanks to:</summary>
+  <br/>
 <div>
   <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank"><img src="https://img.shields.io/badge/Awesome Badges-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://img.shields.io/badge/Readme Stats-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -80,5 +85,7 @@ Thanks to:
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://img.shields.io/badge/Readme Typing-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
-avatar made with Midjourney AI
+avatar made with Midjourney AI  
+<details/>
+
 
