@@ -11,7 +11,10 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-
+<div align="center">
+  <p>Web Portfolio under construction in:</p>
+<a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Web-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
+</div>
 <!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
