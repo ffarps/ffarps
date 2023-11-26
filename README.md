@@ -1,20 +1,24 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?loop=false&lines=Olá!+I'm+Francisco+André+💿)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=125&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering;Debugging+one+line+at+a+time;Until+I+find+the+damn+error)](https://git.io/typing-svg)
+
+<div align="center">
+  <h3>Web Portfolio under construction in:</h3>
+<a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Web-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
+</div>
+<!-- hide unnecessary links --
+<br>
   <div align= "center">
   <a href="https://www.linkedin.com/in/francisco-pereira-9755501a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.com/ffarps" target="_blank"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=Gitlab&logoColor=white" target="_blank"></a>
   <a href="https://www.artstation.com/farps" target="_blank"><img src="https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
 </div>
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<div align="center">
-  <p>Web Portfolio under construction in:</p>
-<a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Web-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
-</div>
 <!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
