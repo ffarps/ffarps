@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?height=125&width=1000&duration=2000&font=Fira+Code&color=1FF773&multiline=true&repeat=false&&lines=Olá!+I'm+Francisco+André+💿;+Degree+in+Informatics+Engineering;Debugging+one+line+at+a+time;Until+I+find+the+damn+error)](https://git.io/typing-svg)
 
 <div align="center">
-  <h3>Web Portfolio under construction in:</h3>
-<a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Web-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
+  <!--<h3>Web Portfolio under construction in:</h3>-->
+<a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Check out my-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
 </div>
 <!-- hide unnecessary links --
 <br>
@@ -13,12 +13,12 @@
   <a href="https://www.artstation.com/farps" target="_blank"><img src="https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
 </div>
 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
 </picture>
-<br/>
+<br/>-->
 <!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
@@ -26,19 +26,18 @@
 <!--[![GitHub ffarps](https://img.shields.io/github/followers/ffarps?label=follow&style=social)](https://github.com/ffarps)-->
 
 
-<details>
+<!--<details>
   <summary>Code Stats</summary>
-<div align="center">
-  <br/>
-  <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=pie&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&&hide=Shaderlab,HLSL,GLSL" width="400"/></a>
-<br>
-  <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" width="400"/></a>
-  
+  <div align="center">
+    <br/>
+      <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=pie&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&&hide=Shaderlab,HLSL,GLSL" width="400"/></a>
+    <br>
+      <a href="#"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=ffarps&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" width="400"/></a>
   <div align="center">
   </div>
     <i><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-</details>
+</details>-->
   
 <!--<details>
   <summary>Tools</summary>
@@ -58,7 +57,7 @@
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)-->
 <!--![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)-->
 <!--  ##### Avatar: https://avatarmaker.com/-->
-<details>
+<!--<details>
   <summary>Thanks to:</summary>
   <br/>
 <div>
@@ -68,6 +67,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://img.shields.io/badge/Readme Typing-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 avatar made with Midjourney AI  
-</details>
+</details>-->
 
 
