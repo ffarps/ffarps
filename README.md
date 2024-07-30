@@ -5,6 +5,7 @@
   <!--<h3>Web Portfolio under construction in:</h3>-->
 <a href="https://ffarps.github.io/" target="_blank"><img src="https://img.shields.io/badge/Check out my-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white"></a>  
 </div>
+
 <!-- hide unnecessary links --
 <br>
   <div align= "center">
@@ -13,12 +14,13 @@
   <a href="https://www.artstation.com/farps" target="_blank"><img src="https://img.shields.io/badge/Artstation-blue?style=for-the-badge&logo=Artstation&logoColor=white" target="_blank"></a>
 </div>
 -->
-<!-- <picture>
+<br>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
 </picture>
-<br/>-->
+<br/>
 <!--
 [![Linkedin: Francisco Pereira](https://img.shields.io/badge/-Francisco%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-pereira-9755501a3/)](https://www.linkedin.com/in/francisco-pereira-9755501a3/)
 [![Gitlab: Francisco Pereira](https://img.shields.io/badge/-ffarps-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ffarps)
