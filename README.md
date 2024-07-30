@@ -29,7 +29,7 @@
 
 
 <!--<details>
-  <summary>Code Stats</summary>
+  <summary><h6>Code Stats</h6></summary>
   <div align="center">
     <br/>
       <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffarps&langs_count=10&layout=pie&theme=blue-green&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6&&hide=Shaderlab,HLSL,GLSL" width="400"/></a>
@@ -59,8 +59,10 @@
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)-->
 <!--![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)-->
 <!--  ##### Avatar: https://avatarmaker.com/-->
-<!--<details>
-  <summary>Thanks to:</summary>
+<details>
+  <summary> 
+    <h6>Details</h6>
+  </summary>
   <br/>
 <div>
   <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank"><img src="https://img.shields.io/badge/Awesome Badges-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -68,7 +70,7 @@
   <a href="https://github.com/Platane/snk" target="_blank"><img src="https://img.shields.io/badge/Snake-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank"><img src="https://img.shields.io/badge/Readme Typing-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-avatar made with Midjourney AI  
-</details>-->
+<h6>avatar made with Midjourney AI</h6>
+</details>
 
 
