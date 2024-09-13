@@ -6,7 +6,7 @@
 #### Debugging one line at a time until I find the damn error
 
 <a href="https://ffarps.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Check_out_my-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Check_out_my-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white" alt="Portfolio Badge"/>
 </a>
 
 </div>
@@ -15,23 +15,36 @@
 
 ## 🐍 Contribution Highlights 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br/>
 
 <details>
-  <summary>🔍 Discover More</summary>
+  <summary><strong>Discover More</strong></summary>
 
-  <br/>
+  <p align="center">💻 Passionate FOSS Advocate</p>
+  <p align="center">🐧 Debian/Arch GNU Linux User</p>
 
-  ### FOSS Advocate
-  #### Debian/Arch GNU Linux Enthusiast
   <br/>
 
   <div align="center">
     <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank">
-      <img src="https://img.shields.io/badge/Awesome_Badges-100000?style=
+      <img src="https://img.shields.io/badge/Awesome_Badges-100000?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Badges"/>
+    </a>
+    <a href="https://github.com/Platane/snk" target="_blank">
+      <img src="https://img.shields.io/badge/Snake-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Snake Game"/>
+    </a>
+  </div>
+
+  <br/>
+
+  <p align="center">
+    <em>Avatar crafted with Midjourney AI</em>
+  </p>
+</details>
