@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! I'm Francisco AR Pereira 💿
+# Olá! I'm Francisco Pereira 💿
 
 ### Software Developer | Degree in Informatics Engineering
 #### Debugging one line at a time until I find the damn error
