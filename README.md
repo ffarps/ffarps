@@ -13,8 +13,7 @@
 
 <br/>
 
-## 🐍 Contribution Highlights 
-
+## 🐍 My Commits Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
@@ -45,6 +44,6 @@
   <br/>
 
   <p align="center">
-    <em>Avatar crafted with Midjourney AI</em>
+    <em>Avatar by Midjourney AI "cyberpunk choom with vr headset"</em>
   </p>
 </details>
