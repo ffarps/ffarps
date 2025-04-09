@@ -1,49 +1,52 @@
-<div align="center">
 
-# Olá! I'm Francisco Pereira 💿
+```python
+def about_me():
+    greeting = "Olá Mundo!"
+    name = "Francisco Pereira 💿"
+    role = "Software Developer"
+    focus = "Driving Innovation with AI & Machine Learning"
+    debug = "Debugging one line at a time until I find the damn error"
 
-### Software Developer | Degree in Informatics Engineering
-#### Debugging one line at a time until I find the damn error
+def tech_stack():
+    os = ["🐧 Debian", "Arch Linux"]
+    interests = ["💻 FOSS Advocate", "🤖 AI/ML", "🔐 Cybersecurity"]
+    return os + interests
 
-<a href="https://ffarps.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Check_out_my-Portfolio-Lightgreen?style=for-the-badge&logo=Github&logoColor=white" alt="Portfolio Badge"/>
-</a>
+def portfolio():
+    url = "https://ffarps.github.io/"
+    description = "Check out my portfolio"
+    return f"🔗 {description}: {url}"
 
-</div>
+def current_projects():
+    projects = "https://ffarps.github.io/#Projects"
+    return projects
 
-<br/>
-
-## 🐍 My Commits Snake
-<div align="center">
+about_me()
+```
+<br>
+<div>
+  <div align="center">
+    <a href="https://ffarps.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_My-Portfolio-1abc9c?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+  
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br/>
-
-<details>
-  <summary><strong>Discover More</strong></summary>
-
-  <p align="center">💻 Passionate FOSS Advocate</p>
-  <p align="center">🐧 Debian/Arch GNU Linux User</p>
-
+  
   <br/>
-
-  <div align="center">
-    <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank">
-      <img src="https://img.shields.io/badge/Awesome_Badges-100000?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Badges"/>
-    </a>
-    <a href="https://github.com/Platane/snk" target="_blank">
+  
+   <a href="https://github.com/Platane/snk" target="_blank">
       <img src="https://img.shields.io/badge/Snake-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Snake Game"/>
-    </a>
-  </div>
-
+   </a>
+   <br>
+   <a href="https://github.com/Envoy-VC/awesome-badges#contents" target="_blank">
+     <img src="https://img.shields.io/badge/Awesome_Badges-100000?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Badges"/>
+   </a>
   <br/>
-
-  <p align="center">
-    <em>Avatar by Midjourney AI "cyberpunk choom with vr headset"</em>
-  </p>
-</details>
+  <em>Avatar by Midjourney AI "cyberpunk choom with vr headset"</em>
+</div>
