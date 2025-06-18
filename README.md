@@ -4,7 +4,10 @@
     </a>
   </div>
   
+---
+  
 ```python
+# ffarps.py
 def input_layer(ideas, problems, water):
     """Takes real-world stimuli as input."""
     print("🧠 Receiving inputs: ideas, problems, and staying hydrated...")
@@ -52,6 +55,7 @@ final_output = output_layer(final_ideas)
 print("\n--- Network Output ---")
 print(final_output)
 ```
+---
 
 ```bash
 $ python ffarps.py
@@ -61,7 +65,12 @@ $ python ffarps.py
 🚀 Generating output...
 
 --- Network Output ---
-{'project_code': 'https://github.com/ffarps?tab=repositories', 'innovations': ['Open-Source AI solution for: new_automation_script', 'Open-Source AI solution for: real_world_problems', 'Open-Source AI solution for: inefficient_workflow_solution_path', 'Open-Source AI solution for: glass_of_water', 'Open-Source AI solution for: another_glass_of_water']}
+{'project_code': 'https://github.com/ffarps?tab=repositories',\
+ 'innovations': ['Open-Source AI solution for: new_automation_script',\
+ 'Open-Source AI solution for: real_world_problems',\
+ 'Open-Source AI solution for: inefficient_workflow_solution_path',\
+ 'Open-Source AI solution for: glass_of_water',\
+ 'Open-Source AI solution for: another_glass_of_water']}
 $
 ```
 <div align="center">
