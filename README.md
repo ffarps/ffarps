@@ -1,8 +1,11 @@
-<div>
-  <div align="center">
-    <a href="https://ffarps.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_My-Portfolio-000?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio Badge"/>
-    </a>
+
+<div align="center">  
+  <a href="https://ffarps.github.io/" target="_blank">  
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio Badge" width="5000"/>  
+  </a>  
+</div>  
+  <!--
+
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffarps/ffarps/output/github-contribution-grid-snake-dark.svg">
@@ -24,3 +27,5 @@
   
   <em>Avatar by Midjourney AI cyberpunk choom with vr headset</em>
 </div>
+
+-->
